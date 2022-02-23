@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding joyfull nevves from Hvll sent in a letter from Sir Iohn Hotham and read in the House of Commons, July 15, 1642 wherin he declares the manner of his taking the Lord Faulcon'ridge [sic] and his son with 4 pieces of ordinance and 20 cavaleers who were building a scence or halfe moon near the town of Hull, and how he sent out Sir Iohn Meldrom with 500 men to hinder their proceedings : also the Queens Majesties desires to the high Court of Parliament : and read in the audience of both Houses : with the declaration and propositions of the House of Commons to the Lords : concerning Her Royall Majesty presented to the House of Peers with their additional reasons by Mr. Iohn Pym esquire, Iuly 14.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A38987</idno>
+            <idno type="STC">Wing E3748</idno>
+            <idno type="STC">ESTC R13894</idno>
+            <idno type="EEBO-CITATION">12717790</idno>
+            <idno type="OCLC">ocm 12717790</idno>
+            <idno type="VID">66254</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A38987)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 66254)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 253:E155, no 19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceeding joyfull nevves from Hvll sent in a letter from Sir Iohn Hotham and read in the House of Commons, July 15, 1642 wherin he declares the manner of his taking the Lord Faulcon'ridge [sic] and his son with 4 pieces of ordinance and 20 cavaleers who were building a scence or halfe moon near the town of Hull, and how he sent out Sir Iohn Meldrom with 500 men to hinder their proceedings : also the Queens Majesties desires to the high Court of Parliament : and read in the audience of both Houses : with the declaration and propositions of the House of Commons to the Lords : concerning Her Royall Majesty presented to the House of Peers with their additional reasons by Mr. Iohn Pym esquire, Iuly 14.</title>
+                  <author>Hotham, John, Sir, d. 1645 Jan. 2.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Iohnson,</publisher>
+                  <pubPlace>... London :</pubPlace>
+                  <date>July 16 [1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fauconberg, Thomas Belasyse, --  Viscount, 1577-1652.</term>
+               <term>Meldrum, John, --  Sir, d. 1645.</term>
+               <term>Pym, John, 1584-1643.</term>
+               <term>Protestants --  Ireland.</term>
+               <term>Hull (England)</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:66254:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 10 -->
+            <p>Exceeding Joyfull NEVVES FROM HVLL Sent in a Letter from Sir <hi>Iohn Hotham,</hi> and Read in the Houſe of COMMONS, July 15. 1642.</p>
+            <p>Wherin he Declares the manner of his taking the Lord <hi>Faulcon<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dge</hi> and his Son, with 4. Pieces of O<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dinance, and 20. Cavaleers, who were building a Sc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nce or halfe Moon near the Town of <hi>Hull,</hi> and how he ſent out Sir <hi>Iohn Meldrom</hi> with 500. men to hinder their Proceedings.</p>
+            <p>
+               <hi>Alſo the Queens Majeſties Deſires</hi> To the High Court of <hi>Parliament.</hi> As it was ſent in a Meſſage from Her Royall Majeſty to the Houſe of PEERS, and read in the Audience of both Houſes.</p>
+            <p>With the <hi>Declaration</hi> and <hi>Propoſitions</hi> of the Houſe of COMMONS to the LORDS.</p>
+            <p>Concerning her Royall Majeſty, Preſented to the Houſe of Peers with their Additionall Reaſons, by M. <hi>Iohn Pym</hi> Eſquire, <hi>Iuly</hi> 14.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered, that this be printed and publiſhed</p>
+                        <closer>
+                           <signed>Iohn Brown Cler. Parliamentorum.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>July 16. LONDON, Printed for Edward Iohnſon.</p>
+         </div>
+      </front>
+      <body>
+         <div type="summary_of_letter">
+            <pb facs="tcp:66254:2"/>
+            <!-- PDF PAGE 11 -->
+            <head>Exceeding joyfull News from HUL.</head>
+            <p>THere was a Letter read in the Houſe of Commons, which came from Sir <hi>J. Hotham,</hi> importing that a half Moon being raiſing neer the town (as conceived by his Maieſties direction) which would have much annoyed and hindered all proviſion that ſhould have come by Sea; that he ſent Sir <hi>John Meldram</hi> out with <hi>500.</hi> men, to hinder the Proceedings therin; Upon the neer approach of whom the Pioners and Work-men ran all away, leaving the ſaid work unperfected, which he hath demoliſhed, and therein they tooke the L. <hi>Faulconbridge, 4.</hi> pieces of Braſse Ordi<g ref="char:EOLhyphen"/>nance, and <hi>20.</hi> Cavaleers, deſiring the Houſes pleaſure to be known therein, whether they ſhould be ſent up to London, or no; which took the houſes up ſome time in conſideration ther<g ref="char:EOLhyphen"/>of, of what moſt expend<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſt to be done.</p>
+         </div>
+         <div type="account">
+            <pb facs="tcp:66254:2"/>
+            <!-- PDF PAGE 11 -->
+            <head>A ROYAL MESSAGE SENT From the Queenes Majeſty to the Houſe of PEERS.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Honourable Hou<g ref="char:EOLhyphen"/>ſes of <hi>Parliament</hi> ta<g ref="char:EOLhyphen"/>king into conſide<g ref="char:EOLhyphen"/>ration the great and weighty Affairs of the whole Kingdom Ordered, that there ſhould a Writ ſpeedily iſſue forth for the chooſing of other Parliament men, in the room of thoſe that were removed, and having ſate ſome time in debate thereof, both Houſes aſſent<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to it.</p>
+            <pb facs="tcp:66254:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 12 -->
+            <p>And they have Ordered likewiſe, That the Juſtices about <hi>Wisbich</hi> in <hi>Lincolnſhire</hi> ſhould obey their Command, which was for to view a dangerous Bank of the Sea in thoſe parts, and to make Report ther<g ref="char:EOLhyphen"/>of to the Houſe, that Order might be ta<g ref="char:EOLhyphen"/>ken for it to preſerve thoſe parts.</p>
+            <p>
+               <hi>There was alſo a Meſſage read in the Houſe of Peers, that came from the Queens Majeſty, Deſiring them that they would be pleaſed to admit Father</hi> Philips <hi>to come againe to the Court, and great Debate was had about it in the Lords Houſe, who ſent a Meſsage to the Houſe of Commons, but they would not aſsent to it.</hi>
+            </p>
+            <p>
+               <hi>The Houſe of Commons ſent a Meſsage to the Lords houſe, together with their Reaſons and Declarations alſo, which was preſented to them by Mr.</hi> Pym, <hi>viz.</hi>
+            </p>
+            <p n="1">1. That there is great to doubt, leaſt the Papiſts have ſome deſign upon Her Majeſties Journey; becauſe the Houſe hath bin informed, That diver<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of them have ſold off their Lande to a good value
+<pb facs="tcp:66254:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 12 -->and uſed other means to get ready Mo<g ref="char:EOLhyphen"/>ney.</p>
+            <p n="2">2. It is obſerved ſome of them have bin very diligent for gathering great quanti<g ref="char:EOLhyphen"/>ties of Gold.</p>
+            <p n="3">3. It is informed, that more then an ordinary number of Papiſts are gone be<g ref="char:EOLhyphen"/>yond Sea already.</p>
+            <p n="4">4. The great Number of <hi>Engliſh Fugi<g ref="char:EOLhyphen"/>tives</hi> beyond the Seas, who by their late Deſigns and Practiſes are known already to be full of malice to the State, and will no doubt ſeek all Opportunities of ac<g ref="char:EOLhyphen"/>ceſſe to her Majeſty, and as much as they can labour to infuſe into her ſuch Evill Counſell, as may trouble the peace of the Kingdom; wherof at this time there is more danger.</p>
+            <p>The reaſon is, becauſe the affairs of the Kingdome are not ſetled, and upon the disbanding of the Army, all places are like to abound with ſouldiers, and ſuch others, as will be apt to be provoked Tu<g ref="char:EOLhyphen"/>mults, and ſeditions, eſpecially in the time of the Kings abſence.</p>
+            <pb facs="tcp:66254:4"/>
+            <!-- PDF PAGE 13 -->
+            <p n="5">5. That the Houſe of Commons have received information of great quantity of Jewels, Plate, and ready Mony, lately packt up to be conveyed to the Queen; not only in ſuch a proportion, as the pre<g ref="char:EOLhyphen"/>ſent occaſions with due reſpects to Her Majeſties Honour may ſeem to require, b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t a far greater quantity.</p>
+            <p n="6">6. That as it will be a great diſhonour to the State, if Her Majeſty ſhould not be attended and furniſhed, ſutably to Her quality; ſo it will be a very heavie bur<g ref="char:EOLhyphen"/>then in this time of great neceſſity and occaſions of other publike Charges, if the ſhall be provided in ſo Royall a manner, as ſhall be ſit for Her Majeſty, and the Honour of the King and Kingdom.</p>
+            <p n="7">7. The Houſe of Commons have thought ſit to declare, That if any thing within the power of <hi>Parliament</hi> may give Her Majeſty contentment; they are ſo ten<g ref="char:EOLhyphen"/>der of her, both in due Reſpect to his moſt excellent Majeſty, and her Self, that they will be ready to further her ſatiſ<g ref="char:EOLhyphen"/>faction in in all thinhs; ſo farre as may
+<pb facs="tcp:66254:4"/>
+               <!-- PDF PAGE 13 -->ſtand with that publique to which they are obliged.</p>
+            <div type="part">
+               <head>A true Relation of the Proceedings in the Northern Parts.</head>
+               <p>THe poor diſtreſſed Proteſtants in the <hi>Northern Parts,</hi> are in a great perplexi<g ref="char:EOLhyphen"/>ty and fear, by reaſon their horſes are ta<g ref="char:EOLhyphen"/>ken away by force, the <hi>Malignant Party committing many other Acts of Hoſtility.</hi>
+               </p>
+               <p>There are alſo divers Troops of Horſe ſent into Lincolnſhire, to the great ter<g ref="char:EOLhyphen"/>rour of the well-affected people, who are therby forced to ſtand upon their owne Defence.</p>
+               <p>The Earl <hi>Rivers</hi> likewiſe hath the go<g ref="char:EOLhyphen"/>vernment of the <hi>Commiſſion of Array</hi> in <hi>Lincoln-ſhire,</hi> which he hath moſt cruelly executed, and hath committed divers Per<g ref="char:EOLhyphen"/>ſons to priſon, for refuſing to ſubmit ther<g ref="char:EOLhyphen"/>unto.</p>
+               <p>And the Papiſts in <hi>Cheſhire</hi> alſo hath in a moſt peremptory manner in his Ma<g ref="char:EOLhyphen"/>jeſties Name demanded their Arms to be again reſtored to them.</p>
+               <pb facs="tcp:66254:5"/>
+               <!-- PDF PAGE 14 -->
+               <p>The Kings Majeſty hath alſo Declared to all the Northern parts of <hi>England,</hi> that whoſoever ſhall give him their cheerfull help at this time, either with Men, Horſe, Arms, or Money, to be brought, ſent, or con<g ref="char:EOLhyphen"/>veyed unto him, He will look upon it as a ſervice never to be forgotten, which De<g ref="char:EOLhyphen"/>claration He commanded ſhould be ſent to all his loving Subjects in <hi>Yorkſhire,</hi> which they moſt cheerfully aſſented to, promiſing to aid and aſſiſt him with Men, Horſe, Arms, and Money, for the peace and ſafety of the Kingdome.</p>
+               <p>Both Houſes Voted, that it is illegall and againſt the Laws of the Land, for any to appear in ſuch a warlike manner.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Ordered that this be printed and publiſhed.</p>
+            <closer>
+               <signed>John Brown Cler. Parl. Hen. Elſing Cler. Parl. D Com.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
